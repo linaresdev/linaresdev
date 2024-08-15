@@ -1,5 +1,11 @@
 ## 0BIT 👋
 
+### ⚙️ &nbsp;GitHub All
+
+<p class="center">
+	<img src="https://myreadme.vercel.app/api/embed/linaresdev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</p>
+
 <img src="https://github.com/linaresdev/linaresdev/blob/main/images/banner.png">
 
 ### ⚙️ &nbsp;GitHub Analytics
