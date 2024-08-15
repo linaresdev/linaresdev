@@ -1,9 +1,15 @@
-## Hi there 👋
+## 0BIT 👋
 
-<div class="center">
-	<h1>0BIT</h1>
-</div>
-<img src="https://github.com/linaresdev/linaresdev/images/banner.png">
+<img src="https://github.com/linaresdev/linaresdev/blob/main/images/banner.png">
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+	<a href="https://github.com/linaresdev">
+	  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=linaresdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+	  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=linaresdev&layout=compact&langs_count=8&theme=algolia"/>
+	</a>
+</p>
 
 <!--
 **linaresdev/linaresdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
