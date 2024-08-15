@@ -1,13 +1,13 @@
 
-<div>
+<!-- <div>
 	<h4>0BIT 👋</h4>
 	<div>
 		<a href="https://www.facebook.com/linaresdev" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 	</div>
 	<hr />
-</div>
+</div> -->
 
-### ⚙️ &nbsp;GitHub Analytics
+⚙️ <h2>0BIT 👋</h2>
 
 <p align="center">
 	<a href="https://github.com/linaresdev">
