@@ -1,12 +1,11 @@
-## 0BIT 👋
 
-### ⚙️ &nbsp;GitHub All
-
-<p class="center">
-	<img src="https://myreadme.vercel.app/api/embed/linaresdev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-</p>
-
-<img src="https://github.com/linaresdev/linaresdev/blob/main/images/banner.png">
+<div>
+	<h4>0BIT 👋</h4>
+	<div>
+		<a href="https://www.facebook.com/linaresdev" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+	</div>
+	<hr />
+</div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
