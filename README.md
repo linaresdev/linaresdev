@@ -7,7 +7,7 @@
 	<hr />
 </div> -->
 
-<h2>👋 0BIT</h2>
+<h2 class="center">👋 0BIT</h2>
 
 <p align="center">
 	<a href="https://github.com/linaresdev">
